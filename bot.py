@@ -3,7 +3,7 @@ import requests
 
 # -------- SETTINGS --------
 USERNAME = "elphabaoriona"
-WEBHOOK = "YOUR_WEBHOOK_HERE"
+WEBHOOK = "https://discordapp.com/api/webhooks/1499156805962698863/vBzHTfB-whjWiZGCx3RRX-0-yim4UUjifTbQZEDlZxzoTQKoy-YPbbavhjc-1boYTOSm"
 CHECK_INTERVAL = 2  # faster checks
 REQUEST_TIMEOUT = 5
 RETRY_COUNT = 3
